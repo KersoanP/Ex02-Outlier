@@ -39,7 +39,7 @@ Plot the datas using Box Plot.
 # PROGRAM
 
 ```
-Developed by : KERSOAN P 
+Developed  by       : KERSOAN P 
 Registration Number : 212221230050
 ```
 ```
